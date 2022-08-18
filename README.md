@@ -1,5 +1,6 @@
 [![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Salahaddin+Mohammed;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Salahaddin Mohammed</h1>
+
+<h2>HEY, GLAD TO SEE YOU HERE! WELCOME TO MY GITHUB PROFILE👇<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
 
 <p align="center"><h3>About ME✔</h3><br>Software Developer | Mentor | Open Source Contributor | Freelancer | Lecturer | Volunteer | Session Monitor & Facilitator | Agile Trainer </p>
 
