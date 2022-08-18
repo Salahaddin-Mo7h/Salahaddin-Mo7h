@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salahaddin Mohammed</h1>
 <h3 align="center">A passionate software developer from Sudan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salahaddin-mo7h&label=Profile%20views&color=0e75b6&style=flat" alt="salahaddin-mo7h" /> </p>
-
 - 🔭 I’m currently working as **Senior Mobile Application Developer.**
 
 - 🌱 I’m currently learning **Devops in depth,IOT,Blockchain,AR & VR,Copilot**
@@ -29,6 +27,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/salahaddinl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="salahaddinl" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salahaddin-mo7h&show_icons=true&locale=en" alt="salahaddin-mo7h" /></p>
 
