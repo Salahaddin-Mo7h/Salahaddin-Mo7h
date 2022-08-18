@@ -1,3 +1,4 @@
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Nrishinghananda+Roy;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Salahaddin Mohammed</h1>
 <h3 align="center">A passionate software developer</h3>
 
