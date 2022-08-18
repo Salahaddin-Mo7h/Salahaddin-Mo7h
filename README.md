@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salahaddin Mohammed</h1>
-<h3 align="center">A passionate software developer from Sudan</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🔭 I’m currently working as **Senior Mobile Application Developer.**
 
@@ -18,8 +18,8 @@
 <a href="https://twitter.com/salahad77328658" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salahad77328658" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/salahaddin-mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salahaddin-mohammed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13962699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13962699" height="30" width="40" /></a>
-<a href="https://fb.com/salahaddin alayuobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salahaddin alayuobi" height="30" width="40" /></a>
-<a href="https://discord.gg/Salahaddin#7796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Salahaddin#7796" height="30" width="40" /></a>
+<a href="https://dribbble.com/salahaddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="salahaddin" height="30" width="40" /></a>
+<a href="https://discord.gg/PzBqSu3yRD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PzBqSu3yRD" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
