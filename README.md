@@ -3,11 +3,11 @@
 
 <p align="center"><h3>About ME✔</h3><br>Software Developer | Mentor | Open Source Contributor | Freelancer | Lecturer | Volunteer | Session Monitor & Facilitator | Agile Trainer </p>
 
-<p align="center">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/salahaddin-mohammed/">here</a>!🙋‍♀️</p>
+<p align="left">Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. You can checkout my Journey by visiting <a href="https://www.linkedin.com/in/salahaddin-mohammed/">here</a>!🙋‍♀️</p>
 
-<p align="center">Also, I'm technology enthusiastic 💖, I want to learn things quickly and dive deep inside them. I always believe in developing logical things which make an impact on the end-users.💖 and I like to spend my time in leveraging my skills 💪, attending various events 🗓️ & contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most.</p>
+<p align="left">Also, I'm technology enthusiastic 💖, I want to learn things quickly and dive deep inside them. I always believe in developing logical things which make an impact on the end-users.💖 and I like to spend my time in leveraging my skills 💪, attending various events 🗓️ & contributing in any way possible🌟. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food 😋 is what I like the most.</p>
 
-<p align="center">I would love to connect with you, so do not hesitate to connect with me on above handles🤝. Feel free to reach out to me if you are interested to talk or any queries, I am always open for a conversation!😃✔
+<p align="left">I would love to connect with you, so do not hesitate to connect with me on above handles🤝. Feel free to reach out to me if you are interested to talk or any queries, I am always open for a conversation!😃✔
 
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
