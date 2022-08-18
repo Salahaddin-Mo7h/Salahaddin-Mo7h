@@ -9,7 +9,7 @@
 
 - 🤝 I’m open to collaboration **regards to Competitive Programming and DSA**
 
-- 💬 Ask me about **Flutter,SpringBoot,NodeJs,Docker,Kotlin,Java,or any tech related stuff with CICD**
+- 💬 Ask me about **Flutter, SpringBoot, NodeJs, Docker, Kotlin, Java, or any tech stuff related with CICD**
 
 - 📫 How to reach me **salah@hnbafrica.com, LinkedIn Account below**
 
